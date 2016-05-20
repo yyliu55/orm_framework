@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/yyliu55/orm_framework#readme",
   "dependencies": {
-    "orm": "^3.1.0"
+    "mysql": "^2.10.2",
+    "orm": "^3.1.0",
+    "path": "^0.12.7"
   }
 }

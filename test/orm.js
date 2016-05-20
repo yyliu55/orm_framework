@@ -1,6 +1,6 @@
 var assert = require("assert");
 var orm_framework = require("orm_framework");
-var config = require("../sample.config");
+var config = require("../sample.config.js");
 
 describe("mydql connection", function(){
 
