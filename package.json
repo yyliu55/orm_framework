@@ -1,6 +1,6 @@
 {
   "name": "orm_framework",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,10 @@
     "orm",
     "nodejs"
   ],
-  "author": "jason.liu",
+  "author": {
+    "name": "jason.liu",
+    "email": "342985278@qq.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yyliu55/orm_framework/issues"
