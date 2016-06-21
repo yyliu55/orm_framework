@@ -1,6 +1,6 @@
 {
   "name": "orm_framework",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "nodejs orm mysql framework",
   "main": "index.js",
   "scripts": {
@@ -10,13 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/yyliu55/orm_framework.git"
   },
+  "files": [
+    "lib/",
+    "Readme.md",
+    "index.js"
+  ],
   "keywords": [
     "orm",
     "nodejs",
     "mysql"
   ],
   "author": "jason.liu",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/yyliu55/orm_framework/issues"
   },
@@ -26,5 +31,9 @@
     "orm": "^3.1.0",
     "path": "^0.12.7"
   },
-  "readme": "ERROR: No README data found!"
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "devDependencies": {}
 }
