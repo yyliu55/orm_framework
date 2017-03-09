@@ -1,6 +1,6 @@
 {
   "name": "orm_framework",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "nodejs orm mysql framework",
   "main": "index.js",
   "scripts": {
